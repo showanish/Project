@@ -1,4 +1,4 @@
-# Project Name- Avalanche-Subnets
+# Avalanche-Subnets
 # Process or steps to be followed
 1- Deploy your EVM subnet using the Avalanche CLI
 
